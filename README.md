@@ -10,6 +10,16 @@ Centered division tools for Grasshopper. Divide curves and surfaces with equal s
 
 Grasshopper's built-in `Divide Distance` and `Divide Length` components start dividing from one end of a curve, leaving an uneven remainder at the other end. **Reticle** solves this by dividing from the center outward, ensuring equal remainders on both sides.
 
+## Demo
+
+### Divide Centered (Curve)
+
+https://github.com/user-attachments/assets/b5105d13-4e4f-4a18-ab2f-c63f6dd4593c
+
+### Divide Surface Centered
+
+https://github.com/user-attachments/assets/96609f25-d2c6-4912-a693-e831332a7a71
+
 ## Components
 
 ### Divide Centered (Curve)
