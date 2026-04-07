@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+*.pdb
+release/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
